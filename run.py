@@ -5,7 +5,6 @@ import getpass
 import sys
 import clipboard
 import getpass
-import tkinter as tk
 import pyperclip
 import os
 import random
@@ -67,8 +66,6 @@ client.connect(SYS.broker)
 client.loop_start()
 client.subscribe(topic+"/#")#subscribe
 
-
-SYS.tkin = tk.Tk()
 
 
 SYS.running = True
