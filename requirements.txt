@@ -1,0 +1,8 @@
+certifi==2020.12.5
+chardet==4.0.0
+clipboard==0.0.4
+idna==2.10
+paho-mqtt==1.5.1
+pyperclip==1.8.2
+requests==2.25.1
+urllib3==1.26.4
